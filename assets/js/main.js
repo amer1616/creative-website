@@ -45,5 +45,9 @@ $(function() {
 			});
 
 		});
+		
+		// lazy loading plugin
+			$('.lazy').lazy();
+	
 
 });
